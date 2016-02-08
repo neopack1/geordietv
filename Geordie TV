@@ -7,6 +7,16 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordie</externallink>
 </channel>
   </channels>
+  
+  <channel>
+      <name>[COLOR blue]Movies[/COLOR]</name>
+  <thumbnail>http://i.imgur.com/nG0fBlR.png?1</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/movies</externallink>
+</channel>
+  </channels>
+  
 
 <channel>
       <name>[COLOR blue]Boy Meets Girl[/COLOR]</name>
