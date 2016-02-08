@@ -1,4 +1,14 @@
 <channels>
+
+<channel>
+      <name>[COLOR blue]Geordie Music[/COLOR]</name>
+  <thumbnail>https://i.ytimg.com/vi/mWA9wtIOtiQ/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemusic</externallink>
+</channel>
+  </channels>
+
 <channel>
       <name>[COLOR blue]Live Geordie Shows[/COLOR]</name>
   <thumbnail>http://i.imgur.com/nG0fBlR.png?1</thumbnail>
