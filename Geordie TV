@@ -19,3 +19,15 @@
 
 
 <channels>
+
+<channel>
+      <name>[COLOR blue]Hebburn Series 1 + 2[/COLOR]</name>
+  <thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/bbcdvd3700/hebburn_f_300.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/hebbburn</externallink>
+</channel>
+  </channels>
+
+
+<channels>
