@@ -9,9 +9,9 @@
 </item>
 
 <item>
-<title>[COLOR white]BBC Newcastle[/COLOR]</title>
-<thumbnail>http://ichef.bbci.co.uk/images/ic/480x270/p01w5z4f.jpg</thumbnail>
-<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/llnw/bbc_radio_newcastle.m3u8</link>
+<title>[COLOR white]Capital FM North East Tyne & Wear[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/eb/Capital_FM_Network_logo.png</thumbnail>
+<link>http://media-the.musicradio.com:80/CapitalTyneWearMP3</link>
 </item>
 
 <stream>
