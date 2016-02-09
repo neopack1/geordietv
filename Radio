@@ -11,7 +11,7 @@
 <item>
 <title>[COLOR white]BBC Newcastle[/COLOR]</title>
 <thumbnail>http://ichef.bbci.co.uk/images/ic/480x270/p01w5z4f.jpg</thumbnail>
-<link>http://as-hls-uk-live.bbcfmt.vo.llnwd.net/pool_7/live/bbc_radio_newcastle/bbc_radio_newcastle.isml/bbc_radio_newcastle-audio%3d128000.m3u8</link>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/llnw/bbc_radio_newcastle.m3u8</link>
 </item>
 
 <stream>
