@@ -1,1 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+<stream>
+ <channels>
+ 
+ <channel>
+      <name>[COLOR blue]Sid The Sexist (18)[/COLOR]</name>
+  <thumbnail>http://s4.thcdn.com/productimg/0/600/600/15/97015-1310811693-289588.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/sidthesexist</externallink>
+</channel>
+  </channels>
+  
+  
+<item>
+<title>[COLOR white]Men in Tights (2003)[/COLOR] </title>
+<link>http://vodlocker.com/dyd5uzafxjqx</link>
+<thumbnail>https://i.ytimg.com/vi/Rybvd3euc94/maxresdefault.jpg</thumbnail>
+</item>
+  
+  <channel>
+      <name>[COLOR blue]Boy Meets Girl[/COLOR]</name>
+  <thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/av3277/boy_meets_girl_600.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/boymeetsgirl</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+
+<item>
+<title>[COLOR white]Geordie Finishing School for Girls - Episode 1[/COLOR]</title>
+<thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
+<link>http://vodlocker.com/3fs4pmz6cz1u</link>
+</item>
+
+<item>
+<title>[COLOR white]Geordie Finishing School for Girls - Episode 2[/COLOR]</title>
+<thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
+<link>http://vodlocker.com/y34tkagmvme5</link>
+</item>
+
+<item>
+<title>[COLOR white]Geordie Finishing School for Girls - Episode 3[/COLOR]</title>
+<thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
+<link>http://vodlocker.com/ojsz9ducejao</link>
+</item>
+
+
+<channel>
+      <name>[COLOR blue]Geordie Shore - Season 1[/COLOR]</name>
+  <thumbnail>http://ecx.images-amazon.com/images/I/81i3e%2Be8QhL._SL1500_.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordieshoreseason1</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+
+<channel>
+      <name>[COLOR blue]Hebburn Series 1 + 2[/COLOR]</name>
+  <thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/bbcdvd3700/hebburn_f_300.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/hebbburn</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+
+<channel>
+      <name>[COLOR blue]Judge Geordie[/COLOR]</name>
+  <thumbnail>http://i2.chroniclelive.co.uk/incoming/article9384153.ece/ALTERNATES/s615/JS65195954.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/judgegeordie</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+</stream>
