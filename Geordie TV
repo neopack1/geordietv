@@ -47,6 +47,16 @@
 </channel>
   </channels>
 
+<channel>
+      <name>[COLOR blue]Geordie Radio[/COLOR]</name>
+  <thumbnail>http://images.mid-day.com/images/2015/jan/first-public-radio-broadcast.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Radio</externallink>
+</channel>
+  </channels>
+
+
 
 <channels>
 
