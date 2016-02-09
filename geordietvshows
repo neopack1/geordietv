@@ -62,32 +62,21 @@
   </channels>
 
 
-<channels>
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+      <name>[COLOR blue]Geordie Finishing School for Girls[/COLOR]</name>
+  <thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Geordie%20Finishing%20School%20for%20Girls</externallink>
+</channel>
+  </channels>
 
-<stream>
-<item>
-<title>[COLOR white]Geordie Finishing School for Girls - Episode 1[/COLOR]</title>
-<thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
-<link>http://vodlocker.com/3fs4pmz6cz1u</link>
-</item>
 
-<item>
-<title>[COLOR white]Geordie Finishing School for Girls - Episode 2[/COLOR]</title>
-<thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
-<link>http://vodlocker.com/y34tkagmvme5</link>
-</item>
-
-<item>
-<title>[COLOR white]Geordie Finishing School for Girls - Episode 3[/COLOR]</title>
-<thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
-<link>http://vodlocker.com/ojsz9ducejao</link>
-</item>
-
-<item>
-<title>[COLOR white]Men in Tights (2003)[/COLOR] </title>
-<link>http://vodlocker.com/dyd5uzafxjqx</link>
-<thumbnail>https://i.ytimg.com/vi/Rybvd3euc94/maxresdefault.jpg</thumbnail>
-</item>
-
-</stream>
+<channel>
+      <name>[COLOR blue]Men in Tights (2003[/COLOR]</name>
+  <thumbnail>https://i.ytimg.com/vi/Rybvd3euc94/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/menintights</externallink>
+</channel>
+  </channels>
