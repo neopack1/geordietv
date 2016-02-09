@@ -50,6 +50,19 @@
 
 <channels>
 
+
+<channel>
+      <name>[COLOR blue]Geordie Shore - Season 1[/COLOR]</name>
+  <thumbnail>http://ecx.images-amazon.com/images/I/81i3e%2Be8QhL._SL1500_.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordieshoreseason1</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+
 <channel>
       <name>[COLOR blue]Hebburn Series 1 + 2[/COLOR]</name>
   <thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/bbcdvd3700/hebburn_f_300.jpg</thumbnail>
