@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+
+<item>
+<title>[COLOR white]Metro Radio[/COLOR]</title>
+<thumbnail>https://pbs.twimg.com/profile_images/552043245639704576/pekD_rAJ.jpeg</thumbnail>
+<link>http://icy-e-bz-08-boh.sharp-stream.com:8000/metrolow.mp3</link>
+</item>
+
+<item>
+<title>[COLOR white]BBC Newcastle[/COLOR]</title>
+<thumbnail>http://ichef.bbci.co.uk/images/ic/480x270/p01w5z4f.jpg</thumbnail>
+<link>http://www.radiofeeds.co.uk/bbcnewcastle.pls</link>
+</item>
