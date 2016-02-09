@@ -37,6 +37,15 @@
 </channel>
   </channels>
   
+  
+  <channel>
+      <name>[COLOR blue]Geordie Fitness[/COLOR]</name>
+  <thumbnail>http://www.seven-health.com/wp-content/uploads/2013/04/Fitness-7-Health.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/fitness</externallink>
+</channel>
+  </channels>
 
 
 <channels>
