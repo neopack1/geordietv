@@ -56,7 +56,14 @@
 </channel>
   </channels>
 
-
+<channel>
+      <name>[COLOR blue]Ant and Dec[/COLOR]</name>
+  <thumbnail>http://italktelly.com/2014/wp-content/uploads/2015/08/--ITV_SNT_APPROVED_051.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/antanddec</externallink>
+</channel>
+  </channels>
 
 <channels>
 
