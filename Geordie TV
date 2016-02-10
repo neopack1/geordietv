@@ -65,5 +65,14 @@
 </channel>
   </channels>
 
+<channel>
+      <name>[COLOR blue]Test[/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/55DegreesNorth.jpg/250px-55DegreesNorth.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/55degreesnorth</externallink>
+</channel>
+  </channels>
+
 <channels>
 
