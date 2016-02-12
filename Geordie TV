@@ -74,5 +74,18 @@
 </channel>
   </channels>
 
+
+
+
+
+<channel>
+      <name>[COLOR blue]Our Friends Fron The North[/COLOR]</name>
+  <thumbnail>http://ecx.images-amazon.com/images/I/51KCQ5vCTFL._SY300_.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/friendsfromnorth</externallink>
+</channel>
+  </channels>
+
 <channels>
 
