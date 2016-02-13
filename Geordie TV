@@ -74,6 +74,14 @@
 </channel>
   </channels>
 
+<channel>
+      <name>[COLOR blue]Catherine Cookson Collection[/COLOR]</name>
+  <thumbnail>http://festivalfilm.com/wp-content/themes/festival/images/collection_main_images.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/cathrinecookson</externallink>
+</channel>
+  </channels>
 
 <channels>
 
