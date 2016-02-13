@@ -8,6 +8,15 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemusic</externallink>
 </channel>
   </channels>
+  
+  <channel>
+      <name>[COLOR blue]Geordie Movies[/COLOR]</name>
+  <thumbnail>http://www.etinside.com/wp-content/uploads/2014/12/the-movies-logo-1.gif</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemovies</externallink>
+</channel>
+  </channels>
 
 <channel>
       <name>[COLOR blue]Live Geordie Shows[/COLOR]</name>
