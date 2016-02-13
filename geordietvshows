@@ -131,7 +131,13 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/spenders1</externallink>
 </channel>
 
-
+<channel>
+      <name>[COLOR blue]Spender Series 2[/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f3/Spender-logo.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/spenders2</externallink>
+</channel>
 
 
   </channels>
