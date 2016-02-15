@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-      <name>[COLOR blue]Geordie Music[/COLOR]</name>
+      <name>[COLOR white]Geordie Music[/COLOR]</name>
   <thumbnail>https://i.ytimg.com/vi/mWA9wtIOtiQ/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -10,7 +10,7 @@
   </channels>
   
   <channel>
-      <name>[COLOR blue]Geordie Movies[/COLOR]</name>
+      <name>[COLOR white]Geordie Movies[/COLOR]</name>
   <thumbnail>http://www.etinside.com/wp-content/uploads/2014/12/the-movies-logo-1.gif</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -19,7 +19,7 @@
   </channels>
 
 <channel>
-      <name>[COLOR blue]Live Geordie Shows[/COLOR]</name>
+      <name>[COLOR white]Live Stand Up Comedy[/COLOR]</name>
   <thumbnail>http://jefrickpalmer.files.wordpress.com/2014/02/live_show_neon_sign_127-b08-b.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -28,7 +28,7 @@
   </channels>
   
   <channel>
-      <name>[COLOR blue]Geordie TV Shows[/COLOR]</name>
+      <name>[COLOR white]Geordie TV Shows[/COLOR]</name>
   <thumbnail>http://i.imgur.com/nG0fBlR.png?1</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -38,7 +38,7 @@
   
   
   <channel>
-      <name>[COLOR blue]Geordie Comedy From The Late 1970s[/COLOR]</name>
+      <name>[COLOR white]Geordie Comedy From The Late 1970s[/COLOR]</name>
   <thumbnail>http://nsscpcl.org/wp-content/uploads/2013/02/61552_just-the-tonic-comedy-club-every-friday-and-saturday.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -47,14 +47,6 @@
   </channels>
   
   
-  <channel>
-      <name>[COLOR blue]Geordie Fitness[/COLOR]</name>
-  <thumbnail>http://www.seven-health.com/wp-content/uploads/2013/04/Fitness-7-Health.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/fitness</externallink>
-</channel>
-  </channels>
 
 <channel>
       <name>[COLOR blue]Geordie Radio[/COLOR]</name>
@@ -66,7 +58,7 @@
   </channels>
 
 <channel>
-      <name>[COLOR blue]Ant and Dec[/COLOR]</name>
+      <name>[COLOR white]Ant and Dec[/COLOR]</name>
   <thumbnail>http://italktelly.com/2014/wp-content/uploads/2015/08/--ITV_SNT_APPROVED_051.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -75,7 +67,7 @@
   </channels>
 
 <channel>
-      <name>[COLOR blue]Catherine Cookson Collection[/COLOR]</name>
+      <name>[COLOR white]Catherine Cookson Collection[/COLOR]</name>
   <thumbnail>http://festivalfilm.com/wp-content/themes/festival/images/collection_main_images.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
