@@ -84,11 +84,20 @@
   </channels>
   
   <channel>
-      <name>[COLOR blue]Sunday for Sammy[/COLOR]</name>
+      <name>[COLOR white]Sunday for Sammy[/COLOR]</name>
   <thumbnail>https://pbs.twimg.com/profile_images/1438553991/SundayforSammylogo_400x400.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/sundayforsammy</externallink>
+</channel>
+  </channels>
+  
+   <channel>
+      <name>[COLOR white]Spender Complete Boxset[/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f3/Spender-logo.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/spender</externallink>
 </channel>
   </channels>
 
