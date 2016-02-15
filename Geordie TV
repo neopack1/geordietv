@@ -101,6 +101,15 @@
 </channel>
   </channels>
 
+<channel>
+      <name>[COLOR white]Crocodile Shoes Complete Boxset[/COLOR]</name>
+  <thumbnail>http://www.ioffer.com/img3/item/144/670/643/crocodile-shoes-complete-series-rare-uk-tv-on-dvd-b368.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/crocodileshoess1</externallink>
+</channel>
+  </channels>
+
   <channel>
       <name>[COLOR white]55 Degrees North[/COLOR]</name>
   <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/55DegreesNorth.jpg/250px-55DegreesNorth.jpg</thumbnail>
