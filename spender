@@ -20,3 +20,11 @@
   </channels>
   
   
+ <channel>
+      <name>[COLOR white]Spender Season 3[/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f3/Spender-logo.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/spenders3</externallink>
+</channel>
+  </channels>
