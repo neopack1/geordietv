@@ -58,6 +58,15 @@
   </channels>
 
 <channel>
+      <name>[COLOR white]Supergran[/COLOR]</name>
+  <thumbnail>http://polopokol.com/img/mintaalap/tb3/polopokol.com_supergran_green_2252.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/supergran</externallink>
+</channel>
+  </channels>
+
+<channel>
       <name>[COLOR white]Catherine Cookson Collection[/COLOR]</name>
   <thumbnail>http://festivalfilm.com/wp-content/themes/festival/images/collection_main_images.jpg</thumbnail>
 <fanart></fanart>
