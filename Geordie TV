@@ -1,6 +1,15 @@
 <channels>
 
 <channel>
+      <name>[COLOR red]Rip Brendan Healy  (1956 - 2016)[/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/media/CbkgNXYUsAARfc4.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://ignoreme</externallink>
+</channel>
+  </channels>
+
+<channel>
       <name>[COLOR white]Geordie Music[/COLOR]</name>
   <thumbnail>https://i.ytimg.com/vi/mWA9wtIOtiQ/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
@@ -15,6 +24,15 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemovies</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR white]Geordie Fitness[/COLOR]</name>
+  <thumbnail>http://beyondfitness.yolasite.com/resources/fitness-logo-design.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/fitness</externallink>
 </channel>
   </channels>
 
@@ -90,6 +108,16 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/spender</externallink>
+</channel>
+  </channels>
+  
+  
+  <channel>
+      <name>[COLOR white]When The Boat Comes In Complete Boxset[/COLOR]</name>
+  <thumbnail>http://s4.thcdn.com/productimg/0/600/600/43/8610443-1309273809-321709.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/whentheboatcomesinmenu</externallink>
 </channel>
   </channels>
 
