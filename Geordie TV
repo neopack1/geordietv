@@ -11,7 +11,7 @@
 
 <channel>
       <name>[COLOR white]Geordie Music[/COLOR]</name>
-  <thumbnail>https://i.ytimg.com/vi/mWA9wtIOtiQ/maxresdefault.jpg</thumbnail>
+  <thumbnail>http://geordietv.co.uk/logos/Music.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemusic</externallink>
@@ -20,7 +20,7 @@
   
   <channel>
       <name>[COLOR white]Geordie Movies[/COLOR]</name>
-  <thumbnail>http://www.etinside.com/wp-content/uploads/2014/12/the-movies-logo-1.gif</thumbnail>
+  <thumbnail>http://geordietv.co.uk/logos/Movies.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemovies</externallink>
@@ -29,7 +29,7 @@
 
 <channel>
       <name>[COLOR white]Geordie Fitness[/COLOR]</name>
-  <thumbnail>http://beyondfitness.yolasite.com/resources/fitness-logo-design.jpg</thumbnail>
+  <thumbnail>http://geordietv.co.uk/logos/Fitness.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/fitness</externallink>
@@ -38,7 +38,7 @@
 
 <channel>
       <name>[COLOR white]Live Stand Up Comedy[/COLOR]</name>
-  <thumbnail>https://s3.amazonaws.com/webassets.ticketmob.com/LS/images/venues/Comedy_Palace_Red.jpg</thumbnail>
+  <thumbnail>http://geordietv.co.uk/logos/Standup%20Comedy.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordie</externallink>
@@ -48,7 +48,7 @@
   
   <channel>
       <name>[COLOR white]Geordie Comedy From The Late 1970s[/COLOR]</name>
-  <thumbnail>http://nsscpcl.org/wp-content/uploads/2013/02/61552_just-the-tonic-comedy-club-every-friday-and-saturday.jpg</thumbnail>
+  <thumbnail>http://geordietv.co.uk/logos/70's%20Comedy.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/1970%20geordie</externallink>
@@ -59,7 +59,7 @@
 
 <channel>
       <name>[COLOR white]Geordie Radio[/COLOR]</name>
-  <thumbnail>http://images.mid-day.com/images/2015/jan/first-public-radio-broadcast.jpg</thumbnail>
+  <thumbnail>http://geordietv.co.uk/logos/Radio.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Radio</externallink>
@@ -68,7 +68,7 @@
 
 <channel>
       <name>[COLOR white]Ant and Dec[/COLOR]</name>
-  <thumbnail>http://italktelly.com/2014/wp-content/uploads/2015/08/--ITV_SNT_APPROVED_051.jpg</thumbnail>
+  <thumbnail>http://geordietv.co.uk/logos/Ant%20&%20Dec.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/antanddec</externallink>
