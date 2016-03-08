@@ -1,3 +1,25 @@
+<channels>
+
+<channel>
+      <name>[COLOR white]55 Degrees North Series One[/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/55DegreesNorth.jpg/250px-55DegreesNorth.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/SuperGranS1</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR white]55 Degrees North Series Two[/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/55DegreesNorth.jpg/250px-55DegreesNorth.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/SuperGranS2</externallink>
+</channel>
+  </channels>
+
+
+
 <item>
 <title>55 Degrees North S01E01</title>
 <link>http://thevideo.me/gq7dtrz3wro5</link>
