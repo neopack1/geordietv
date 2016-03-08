@@ -1,3 +1,24 @@
+<channels>
+
+<channel>
+      <name>[COLOR white]Super Gran Series One[/COLOR]</name>
+  <thumbnail>http://polopokol.com/img/mintaalap/tb3/polopokol.com_supergran_green_2252.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/whenbooats1</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR white]Super Gran Series Two[/COLOR]</name>
+  <thumbnail>http://polopokol.com/img/mintaalap/tb3/polopokol.com_supergran_green_2252.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Whenboats2</externallink>
+</channel>
+  </channels>
+
+
 <item>
 <title>Supergran (Grounded)</title>
 <link>plugin://plugin.video.youtube/play/?video_id=G1KZ0amvlYI</link>
