@@ -5,6 +5,12 @@
 <fanart></fanart>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/bobbylaststand</externallink>
 </channel>
+<channel>
+      <name>[COLOR blue]Bobby's Last Stand  (2016)[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/bobby.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/bobbylaststand</externallink>
+</channel>
   </channels>
   <channel>
       <name>[COLOR red]Rip Brendan Healy  (1956 - 2016)[/COLOR]</name>
@@ -247,12 +253,4 @@
 </channel>
   </channels>
 
-<channels>
-       <name>[COLOR blue]Goal2 Living The Dream[/COLOR]</name> 
-   <thumbnail>http://ecx.images-amazon.com/images/I/81i3e%2Be8QhL._SL1500_.jpg</thumbnail> 
- <fanart></fanart> 
- <link>http://ignoreme</link> 
-    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Goal2%20Living%20The%20Dream</externallink> 
- </channel> 
-   </channels> 
 
