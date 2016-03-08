@@ -35,6 +35,9 @@
 </channel>
   </channels>
   
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+
+ <stream> 
   
   
   
@@ -44,4 +47,4 @@
 <thumbnail>http://www.mawson-wareham.com/prodimg/mwmdvd111.jpg</thumbnail>
 </item>
 
-
+ <stream> 
