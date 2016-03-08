@@ -9,8 +9,6 @@
 </channel>
   </channels>
 
-<channels>
-
 <channel>
       <name>[COLOR white]When The Boat Comes in Season 2[/COLOR]</name>
   <thumbnail>http://www.dvdvideo.co.nz/shop/images/roadshow/when_the_boat_comes_in_s2.jpg</thumbnail>
@@ -19,8 +17,6 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Whenboats2</externallink>
 </channel>
   </channels>
-  
-  <channels>
 
 <channel>
       <name>[COLOR white]When The Boat Comes in Season 3[/COLOR]</name>
@@ -31,8 +27,6 @@
 </channel>
   </channels>
   
-  <channels>
-
 <channel>
       <name>[COLOR white]When The Boat Comes in Season 4[/COLOR]</name>
   <thumbnail>http://www.dvdvideo.co.nz/shop/images/roadshow/when_the_boat_comes_in_s2.jpg</thumbnail>
