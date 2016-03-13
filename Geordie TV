@@ -7,15 +7,7 @@
 </channel>
   </channels>
   
-  <channel>
-      <name>[COLOR blue]Latest Release Films[/COLOR]</name>
-  <thumbnail>http://movie25.be/movies.jpg</thumbnail>
-<fanart></fanart>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/films</externallink>
-</channel>
-  </channels>
-  
-  
+ 
 <channel>
       <name>[COLOR white]Sports[/COLOR]</name>
   <thumbnail></thumbnail>
