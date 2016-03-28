@@ -255,9 +255,8 @@
   
   <channel>
       <name>[COLOR white]The Likely Lads[/COLOR]</name>
-  <thumbnail></thumbnail>
+  <thumbnail>https://i1.ytimg.com/sh/2ZMoXDTanxk/showposter.jpg?v=506d902b</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/The%20Likely%20Lads</externallink>
 </channel>
   </channels>
@@ -266,7 +265,6 @@
       <name>[COLOR white]Whatever Happened To The Likely Lads[/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Whatever%20Happened%20To%20The%20Likely%20Lads</externallink>
 </channel>
   </channels>
@@ -275,7 +273,6 @@
       <name>[COLOR blue]Geordie Shore - Season 1[/COLOR]</name>
   <thumbnail>http://ecx.images-amazon.com/images/I/81i3e%2Be8QhL._SL1500_.jpg</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordieshoreseason1</externallink>
 </channel>
   </channels>
