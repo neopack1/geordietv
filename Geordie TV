@@ -214,10 +214,7 @@
 </channel>
   </channels>
  
- 
- 
- 
- <channel>
+  <channel>
       <name>[COLOR white]Geordie Finishing School for Girls[/COLOR]</name>
   <thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
 <fanart></fanart>
@@ -257,7 +254,7 @@
   </channels>
   
   <channel>
-      <name>[COLOR white]The Likely Lads Complete Series[/COLOR]</name>
+      <name>[COLOR white]The Likely Lads[/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -273,8 +270,6 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Whatever%20Happened%20To%20The%20Likely%20Lads</externallink>
 </channel>
   </channels>
-
-
 
 <channel>
       <name>[COLOR blue]Geordie Shore - Season 1[/COLOR]</name>
