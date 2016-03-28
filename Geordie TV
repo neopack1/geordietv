@@ -255,6 +255,15 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/bykergrove</externallink>
 </channel>
   </channels>
+  
+  <channel>
+      <name>[COLOR white]The Likely Lads Complete Series[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/geordietv/blob/master/The%20Likely%20Lads</externallink>
+</channel>
+  </channels>
 
 
 
