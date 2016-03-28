@@ -264,7 +264,15 @@
    <externallink>https://github.com/tdbnz/geordietv/blob/master/The%20Likely%20Lads</externallink>
 </channel>
   </channels>
-
+  
+  <channel>
+      <name>[COLOR white]Whatever Happened To The Likely Lads Complete Series[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com/tdbnz/geordietv/blob/master/Whatever%20Happened%20To%20The%20Likely%20Lads</externallink>
+</channel>
+  </channels>
 
 
 
