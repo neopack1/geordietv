@@ -42,10 +42,17 @@
   </channels>
   
    <channel>
-      <name>[COLOR white]Geordie TV -  (Comedy From The Late 1970s)[/COLOR]</name>
+      <name>[COLOR white]Geordie TV - (Comedy From The Late 1970s)[/COLOR]</name>
   <thumbnail>http://geordietv.co.uk/logos/70's%20Comedy.png</thumbnail>
 <fanart></fanart>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/1970%20geordie</externallink>
 </channel>
   </channels>
 
+   <channel>
+      <name>[COLOR white]Geordie TV - (Radio)[/COLOR]</name>
+  <thumbnail>http://images.mid-day.com/images/2015/jan/first-public-radio-broadcast.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Radio</externallink>
+</channel>
+  </channels>
