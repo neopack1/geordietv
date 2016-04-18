@@ -48,6 +48,15 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/1970%20geordie</externallink>
 </channel>
   </channels>
+  
+     <channel>
+      <name>[COLOR white]Geordie TV - (Live Shows)[/COLOR]</name>
+  <thumbnail>http://jefrickpalmer.files.wordpress.com/2014/02/live_show_neon_sign_127-b08-b.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/liveshows</externallink>
+</channel>
+  </channels>
+
 
    <channel>
       <name>[COLOR white]Geordie TV - (Radio)[/COLOR]</name>
