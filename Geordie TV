@@ -34,6 +34,14 @@
   </channels>
   
    <channel>
+      <name>[COLOR white]Geordie TV - (Tyneside History)[/COLOR]</name>
+  <thumbnail>http://www.disused-stations.org.uk/n/newcastle_new_bridge_street/route_map.gif</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Tyneside</externallink>
+</channel>
+  </channels>
+  
+   <channel>
       <name>[COLOR white]Geordie TV -  (Comedy From The Late 1970s)[/COLOR]</name>
   <thumbnail>http://geordietv.co.uk/logos/70's%20Comedy.png</thumbnail>
 <fanart></fanart>
