@@ -15,3 +15,12 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordietvshows</externallink>
 </channel>
   </channels>
+
+<channels>
+<channel>
+      <name>[COLOR white]Geordie TV - (Movies)[/COLOR]</name>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/2a/Tyne_Bridge_Olympics.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemovies</externallink>
+</channel>
+  </channels>
