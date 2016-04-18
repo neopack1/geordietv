@@ -33,6 +33,14 @@
 </channel>
   </channels>
   
+    <channel>
+      <name>[COLOR white]Geordie TV - (Sports)[/COLOR]</name>
+  <thumbnail>http://4.bp.blogspot.com/-_mZc87AAiZg/TdhVZrDJCRI/AAAAAAAAAeU/3b7cuFgd8AM/s1600/sports_wa.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Sports</externallink>
+</channel>
+  </channels>
+  
    <channel>
       <name>[COLOR white]Geordie TV - (Tyneside History)[/COLOR]</name>
   <thumbnail>http://www.disused-stations.org.uk/n/newcastle_new_bridge_street/route_map.gif</thumbnail>
