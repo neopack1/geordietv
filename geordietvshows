@@ -1,21 +1,118 @@
-
  <channels>
- 
+<channel>
+      <name>[COLOR white]Supergran Boxset[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Super%20Gran.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/supergran</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR white]Catherine Cookson Collection[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Catherine%20Cookson.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/cathrinecookson</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+      <name>[COLOR white]Sunday for Sammy[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Sunday%20For%20Sammy.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/sundayforsammy</externallink>
+</channel>
+  </channels>
+  
+   <channel>
+      <name>[COLOR white]Spender Complete Boxset[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Spender.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/spender</externallink>
+</channel>
+  </channels>
+  
+  
+  <channel>
+      <name>[COLOR white]When The Boat Comes In Complete Boxset[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/WTBCI.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/whentheboatcomesinmenu</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR white]Crocodile Shoes Complete Boxset[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Crocodile%20Shoes.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/crocodileshoesmenu</externallink>
+</channel>
+  </channels>
+
+  <channel>
+      <name>[COLOR white]55 Degrees North Boxset[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/55%20Degrees%20North.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/55degreesnorth</externallink>
+</channel>
+  </channels>
+  
+  
+<channel>
+      <name>[COLOR white]Our Friends in The North[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Our%20Fiends%20In%20The%20North.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/friendsfromnorth</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+      <name>[COLOR white]Sid The Sexist (18)[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/SID.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/sidthesexist</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+      <name>[COLOR white]Boy Meets Girl[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Boy%20Meets%20Girl.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/boymeetsgirl</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+      <name>[COLOR white]Men in Tights (2003)[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Men%20In%20Tights.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/menintights</externallink>
+</channel>
+  </channels>
+
  <channels>
 
 <channel>
-      <name>[COLOR blue]Hebburn Series 1 + 2[/COLOR]</name>
-  <thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/bbcdvd3700/hebburn_f_300.jpg</thumbnail>
+      <name>[COLOR white]Hebburn Series 1 + 2[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/Hebburn.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/hebbburn</externallink>
 </channel>
   </channels>
  
-
- 
- <channel>
-      <name>[COLOR blue]Geordie Finishing School for Girls[/COLOR]</name>
+  <channel>
+      <name>[COLOR white]Geordie Finishing School for Girls[/COLOR]</name>
   <thumbnail>http://s7.postimg.org/rl6is66gn/geordiefishingforfirld.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -23,109 +120,58 @@
 </channel>
   </channels>
   
+  
   <channel>
-      <name>[COLOR blue]55 Degrees North[/COLOR]</name>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/55DegreesNorth.jpg/250px-55DegreesNorth.jpg</thumbnail>
+      <name>[COLOR white]AUF WIEDERSEHEN PET Collection[/COLOR]</name>
+  <thumbnail>https://pbs.twimg.com/profile_images/3279416068/9322a01cf24b4eb485eb7004fcf28336.jpeg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/55degreesnorth</externallink>
-</channel>
-  </channels>
-
-
-
-
-
-<channel>
-      <name>[COLOR blue]Our Friends in The North[/COLOR]</name>
-  <thumbnail>http://ecx.images-amazon.com/images/I/51KCQ5vCTFL._SY300_.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/friendsfromnorth</externallink>
-</channel>
-  </channels>
-
-
-
-<channel>
-      <name>[COLOR blue]Men in Tights (2003)[/COLOR]</name>
-  <thumbnail>https://i.ytimg.com/vi/Rybvd3euc94/maxresdefault.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/menintights</externallink>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/AUFWIEDERSEHENPET</externallink>
 </channel>
   </channels>
  
- <channel>
-      <name>[COLOR blue]AUF WIEDERSEHEN PET Season 2[/COLOR]</name>
-  <thumbnail>http://ecx.images-amazon.com/images/I/51Vn6VvFbuL._SY300_.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/AUFWIEDERSEHENPETS2</externallink>
-</channel>
-  </channels>
  
- <channel>
-      <name>[COLOR blue]Sid The Sexist (18)[/COLOR]</name>
-  <thumbnail>http://s4.thcdn.com/productimg/0/600/600/15/97015-1310811693-289588.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/sidthesexist</externallink>
-</channel>
-  </channels>
-  
-  
-
-  
-  <channel>
-      <name>[COLOR blue]Boy Meets Girl[/COLOR]</name>
-  <thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/av3277/boy_meets_girl_600.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/boymeetsgirl</externallink>
-</channel>
-  </channels>
-  
-  
-  
-  <channel>
-      <name>[COLOR blue]Byker Grove - Season 15[/COLOR]</name>
-  <thumbnail>http://img.thesun.co.uk/aidemitlum/archive/01702/byker-MAIN_1702248a.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/bykergrove</externallink>
-</channel>
-  </channels>
-
-
-
+ <channels>
 
 <channel>
-      <name>[COLOR blue]Geordie Shore - Season 1[/COLOR]</name>
-  <thumbnail>http://ecx.images-amazon.com/images/I/81i3e%2Be8QhL._SL1500_.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordieshoreseason1</externallink>
-</channel>
-  </channels>
-
-
-<channels>
-
-<channels>
-
-<channel>
-      <name>[COLOR blue]Judge Geordie[/COLOR]</name>
+      <name>[COLOR white]Judge Geordie[/COLOR]</name>
   <thumbnail>http://i2.chroniclelive.co.uk/incoming/article9384153.ece/ALTERNATES/s615/JS65195954.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/judgegeordie</externallink>
 </channel>
 
-
-
-
+  <channel>
+      <name>[COLOR white]Byker Grove - Season 15[/COLOR]</name>
+  <thumbnail>http://img.thesun.co.uk/aidemitlum/archive/01702/byker-MAIN_1702248a.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/bykergrove</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+      <name>[COLOR white]The Likely Lads Surviving Episodes[/COLOR]</name>
+  <thumbnail>http://i.ebayimg.com/00/s/NzA1WDUwMA==/z/XwsAAOSwPc9WwllE/$_35.JPG</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Likely%20Lads%20Surviving%20Episodes</externallink>
+</channel>
+  </channels>
+  
+  <channel>
+      <name>[COLOR white]Whatever Happened To The Likely Lads[/COLOR]</name>
+  <thumbnail>http://ichef.bbci.co.uk/images/ic/480x270/p03bmq1c.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/Whatever%20Happened%20To%20The%20Likely%20Lads</externallink>
+</channel>
   </channels>
 
+<channel>
+      <name>[COLOR blue]Geordie Shore - Season 1[/COLOR]</name>
+  <thumbnail>http://ecx.images-amazon.com/images/I/81i3e%2Be8QhL._SL1500_.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordieshoreseason1</externallink>
+</channel>
+  </channels>
 
 
