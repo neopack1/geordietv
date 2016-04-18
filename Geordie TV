@@ -6,3 +6,12 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/latestmovies</externallink>
 </channel>
   </channels>
+
+<channels>
+<channel>
+      <name>[COLOR white]Geordie TV - (TV Shows)[/COLOR]</name>
+  <thumbnail>https://38.media.tumblr.com/tumblr_m3riwrFRzO1qfna0h.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordietvshows</externallink>
+</channel>
+  </channels>
