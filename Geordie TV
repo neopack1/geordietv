@@ -24,3 +24,12 @@
    <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/geordiemovies</externallink>
 </channel>
   </channels>
+  
+   <channel>
+      <name>[COLOR white]Geordie TV -  (Comedy From The Late 1970s)[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/logos/70's%20Comedy.png</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/1970%20geordie</externallink>
+</channel>
+  </channels>
+
