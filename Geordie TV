@@ -1,7 +1,8 @@
-<channel>
- <name>[COLOR white]Latest Movies[/COLOR]</name>
- <thumbnail>https://thatmomentin.files.wordpress.com/2015/07/cinlogo55.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/latestmovies</externallink>
-</channel>
 
+<channel>
+      <name>[COLOR white]Latest Movies[/COLOR]</name>
+  <thumbnail>https://thatmomentin.files.wordpress.com/2015/07/cinlogo55.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/latestmovies</externallink>
+</channel>
+  </channels>
