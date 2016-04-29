@@ -16,6 +16,15 @@
 </channel>
   </channels>
 
+   <channels>
+<channel>
+      <name>[COLOR white]Requests[/COLOR]</name>
+  <thumbnail>http://www.c895.org/wp-content/uploads/2012/04/requests1.jpg</thumbnail>
+<fanart></fanart>
+   <externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/requests</externallink>
+</channel>
+  </channels>
+
 <channels>
 <channel>
       <name>[COLOR white]Geordie TV - (TV Shows)[/COLOR]</name>
