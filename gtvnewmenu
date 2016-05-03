@@ -4,7 +4,7 @@
       <name>[COLOR white]Geordie TV Live at 9pm UK Time[/COLOR]</name>
   <thumbnail>http://geordietv.co.uk/images/onlinelogomaker0207162118.png</thumbnail>
 <fanart></fanart>
-<externallink>plugin://plugin.video.youtube/play/?video_id=MHX60U89kho</externallink>
+<externallink>https://raw.githubusercontent.com/tdbnz/geordietv/master/livestream</externallink>
 </channel>
   </channels>
  
