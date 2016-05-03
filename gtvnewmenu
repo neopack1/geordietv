@@ -1,4 +1,14 @@
  <channels>
+ 
+ <channel>
+      <name>[COLOR white]Geordie TV Live at 9pm UK Time[/COLOR]</name>
+  <thumbnail>http://geordietv.co.uk/images/onlinelogomaker0207162118.png</thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.video.youtube/play/?video_id=MHX60U89kho</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+ 
 <channel>
       <name>[COLOR white]Latest Movies[/COLOR]</name>
   <thumbnail>https://thatmomentin.files.wordpress.com/2015/07/cinlogo55.jpg</thumbnail>
